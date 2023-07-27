@@ -1,0 +1,21 @@
+html { background: pink; }
+
+section { padding: 10px; background: green; }
+section:nth-child(even) { background: yellow; }
+
+/* #section1 { background: skyblue; }
+#section2 { background: tomato; }
+#section3 { background: yellowgreen; } */
+/* #section4 { background: darkcyan; } */
+/* #section5 { background: darkgreen; }
+#section6 { background: darksalmon; }
+#section7 { background: tan; } */
+/* #section8 { background: saddlebrown; } */
+/* #section9 { background: thistle; } */
+
+.gainge { background: #005EFF; }
+
+footer { background: yellow; }
+
+footer > div { color: red; }
+footer > div > div { color: blue; }
